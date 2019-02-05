@@ -1,0 +1,11 @@
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\bin\Release\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\bin\Release\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\bin\Release\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\bin\Release\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\bin\Release\netcoreapp2.0\ConsoleApp1.pdb
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\obj\Release\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\obj\Release\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\obj\Release\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\obj\Release\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\obj\Release\netcoreapp2.0\ConsoleApp1.dll
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\AlgorithmCheck\ConsoleApp1\obj\Release\netcoreapp2.0\ConsoleApp1.pdb

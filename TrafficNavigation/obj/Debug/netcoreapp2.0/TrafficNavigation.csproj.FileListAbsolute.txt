@@ -1,0 +1,10 @@
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\bin\Debug\netcoreapp2.0\TrafficNavigation.deps.json
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\bin\Debug\netcoreapp2.0\TrafficNavigation.runtimeconfig.json
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\bin\Debug\netcoreapp2.0\TrafficNavigation.runtimeconfig.dev.json
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\bin\Debug\netcoreapp2.0\TrafficNavigation.dll
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\bin\Debug\netcoreapp2.0\TrafficNavigation.pdb
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\obj\Debug\netcoreapp2.0\TrafficNavigation.csproj.CoreCompileInputs.cache
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\obj\Debug\netcoreapp2.0\TrafficNavigation.AssemblyInfoInputs.cache
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\obj\Debug\netcoreapp2.0\TrafficNavigation.AssemblyInfo.cs
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\obj\Debug\netcoreapp2.0\TrafficNavigation.dll
+C:\Users\J49M\Documents\Visual Studio 2015\Projects\TrafficNavigation\TrafficNavigation\obj\Debug\netcoreapp2.0\TrafficNavigation.pdb
